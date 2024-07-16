@@ -41,6 +41,11 @@ the MCP2515 CAN transceiver.
 More implementations of other transceivers are being developed
 but not yet publicly available.
 
+### Arduino / ESP32 / Pico
+David Harris has written a library in [dphVLCB](https://github.com/dpharris/dphVLCB).
+This provides communicationvia MCP2515/8, Serial, Pico SW CAN, ESP32/Pico Wifi.
+It is a personal work in progress.  
+
 ### Conformance Test Suite
 David Ellis has created a 
 [test suite](https://github.com/david284/NPM-VLCB-CT)
